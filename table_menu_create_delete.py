@@ -1,4 +1,4 @@
-#Task 8: Table Creation and Deletion
+
 
 #import the function csv
 import csv
